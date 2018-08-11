@@ -1,0 +1,310 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+
+<head>
+  <script data-ionic="inject">
+    (function(w){var i=w.Ionic=w.Ionic||{};i.version='3.9.2';i.angular='5.0.0';i.staticDir='build/';})(window);
+  </script>
+    <meta charset="UTF-8">
+    <title>MobileStyler Partner</title>
+    <meta name="viewport" content="viewport-fit=cover, width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    <meta name="msapplication-tap-highlight" content="no">
+
+    <link rel="icon" type="image/x-icon" href="assets/icon/favicon.ico">
+    <link rel="manifest" href="manifest.json">
+    <meta name="theme-color" content="#4e8ef7">
+
+    <!-- add to homescreen for ios -->
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <script  async defer src="http://maps.google.com/maps/api/js?key=AIzaSyD5oKjXY9B9Kwch941wSWD7jRRF4r78TRw&libraries=places"></script>
+    <script src="https://checkout.stripe.com/checkout.js"></script>
+    <!-- cordova.js required for cordova apps -->
+    <script src="cordova.js"></script>
+
+    <!-- un-comment this code to enable service worker
+  <script>
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.register('service-worker.js')
+        .then(() => console.log('service worker installed'))
+        .catch(err => console.error('Error', err));
+    }
+  </script>-->
+    <!-- Latest compiled and minified CSS -->
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <style>
+        * {
+            font-family: Raleway;
+        }
+        
+        .modal {
+            margin-top: 50%;
+            text-align: center
+        }
+        
+        .text-center {
+            text-align: center
+        }
+        
+        .text-left {
+            text-align: left !important
+        }
+        
+        .modal-form {
+            /* width: auto; */
+            display: inline;
+        }
+        
+        .modal {
+            color: #6D7993
+        }
+        
+        .modal-header,
+        .text-bold {
+            color: #6D7993;
+            font-weight: bold
+        }
+        
+        .modal-footer {
+            color: #fff;
+            background: #6D7993;
+        }
+        
+        .space-row {
+            padding-top: 20px;
+            padding-bottom: 20px;
+        }
+        
+        .font-weight-bold {
+            font-weight: bold;
+        }
+        
+        .text-right {
+            text-align: right;
+        }
+        
+        .no-margin {
+            margin: 0px
+        }
+        
+        .left-inner-addon {
+            position: relative;
+        }
+        
+        .left-inner-addon input {
+            padding-left: 30px;
+        }
+        
+        .left-inner-addon ion-icon {
+            position: absolute;
+            padding: 8px 12px;
+            pointer-events: none;
+        }
+        
+        .right-inner-addon {
+            position: relative;
+        }
+        
+        .right-inner-addon input {
+            padding-right: 30px;
+        }
+        
+        .right-inner-addon ion-icon {
+            position: absolute;
+            right: 0px;
+            padding: 10px 12px;
+            pointer-events: none;
+        }
+        /* enable absolute positioning */
+        
+        .inner-addon {
+            position: relative;
+        }
+        /* style icon */
+        
+        .inner-addon .fa {
+            position: absolute;
+            padding: 10px;
+            pointer-events: none;
+        }
+        /* align icon */
+        
+        .left-addon .glyphicon {
+            left: 0px;
+        }
+        
+        .right-addon .glyphicon {
+            right: 0px;
+        }
+        /* add padding  */
+        
+        .left-addon input {
+            padding-left: 30px;
+        }
+        
+        .right-addon input {
+            padding-right: 30px;
+        }
+    </style>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+    <link href="build/main.css" rel="stylesheet">
+
+</head>
+
+<body>
+
+    <div id="myModal" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+
+                <div class="modal-body">
+                    <p class="text" style="font-size:22px">Congratulations! Booking successful</p>
+                </div>
+                <div class="modal-footer text-center" data-dismiss="modal">
+                    Close
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+    <div id="address2" class="modal" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+                <div class="modal-header text-left">
+                    Add Location
+                </div>
+
+                <div class="modal-body">
+                    <div class="row">
+
+                        <div class="form-group col-xs-12" style="text-align:left">
+                            <label for="name2" class="control-label">Name</label>
+                            <div>
+                                <input class="form-control round " type="text" name="Email">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="width:100% ">
+                        <div class="form-group col-xs-12" style="text-align:left">
+                            <label for="name2" class="control-label">Address Line 1</label>
+                            <div>
+                                <input class="form-control round " type="text" name="Email">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="width:100% ">
+                        <div class="form-group col-xs-12" style="text-align:left">
+                            <label for="name2" class="control-label">Address Line 2</label>
+                            <div>
+                                <input class="form-control round " type="text" name="Email">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="width:100% ">
+                        <div class="form-group col-xs-6" style="text-align:left">
+                            <label for="name2" class="control-label">Address Line 2</label>
+                            <div>
+                                <input class="form-control round " type="text" name="Email">
+                            </div>
+                        </div>
+                        <div class="form-group col-xs-6" style="text-align:left">
+                            <label for="name2" class="control-label">Address Line 2</label>
+                            <div>
+                                <input class="form-control round " type="text" name="Email">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="row" style="width:100% ">
+                        <div class="form-group col-xs-6" style="text-align:left">
+                            <label for="name2" class="control-label">Zip</label>
+                            <div>
+                                <input class="form-control round " type="text" name="Email">
+                            </div>
+                        </div>
+
+                    </div>
+                </div>
+
+
+
+                <div class="modal-footer text-center" data-dismiss="modal">
+                    Save
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+
+    <div id="profile" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+
+                <div class="modal-body">
+                    <p class="text" style="font-size:22px">Congratulations! Booking successful</p>
+                </div>
+                <div class="modal-footer text-center" data-dismiss="modal">
+                    Close
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+
+
+
+    <div id="partner" class="modal fade" role="dialog">
+        <div class="modal-dialog">
+
+            <!-- Modal content-->
+            <div class="modal-content">
+
+                <div class="modal-body">
+                    <p class="text" style="font-size:22px">Congratulations! Booking successful</p>
+                </div>
+                <div class="modal-footer text-center" data-dismiss="modal">
+                    Close
+                </div>
+            </div>
+
+        </div>
+    </div>
+
+
+    <!-- Ionic's root component and where the app will load -->
+    <ion-app></ion-app>
+
+    <!-- The polyfills js is generated during the build process -->
+    <script src="build/polyfills.js"></script>
+
+    <!-- The vendor js is generated during the build process
+       It contains all of the dependencies in node_modules -->
+    <script src="build/vendor.js"></script>
+
+    <!-- The main bundle js is generated during the build process -->
+    <script src="build/main.js"></script>
+
+</body>
+
+</html>

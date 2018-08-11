@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.mobilestylerllc.customer" version="0.1.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>MobileStyler</name>
+    <description>An on-demand cosmetologist application</description>
+    <author email="mobilestylerapp@gmail.com" href="http://mobilestyler.com/">MobileStyler LLC</author>
+    <content src="index.html" />
+    <access origin="*" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <allow-intent href="tel:*" />
+    <allow-intent href="sms:*" />
+    <allow-intent href="mailto:*" />
+    <allow-intent href="geo:*" />
+    <allow-navigation href="https://*.stripe.com/*" />
+    <allow-navigation href="*" />
+    <preference name="ScrollEnabled" value="false" />
+    <preference name="android-minSdkVersion" value="16" />
+    <preference name="BackupWebStorage" value="none" />
+    <preference name="SplashScreen" value="screen" />
+    <preference name="SplashMaintainAspectRatio" value="true" />
+    <preference name="FadeSplashScreenDuration" value="1000" />
+    <preference name="FadeSplashScreen" value="true" />
+    <preference name="SplashShowOnlyFirstTime" value="false" />
+    <preference name="ShowSplashScreen" value="false" />
+    <preference name="AutoHideSplashScreen" value="false" />
+    <preference name="SplashScreenDelay" value="10000" />
+    <preference name="ShowSplashScreenSpinner" value="false" />
+    <preference name="AllowInlineMediaPlayback" value="true" />
+    <preference name="loadUrlTimeoutValue" value="700000" />
+    <preference name="KeyboardDisplayRequiresUserAction" value="false" />
+</widget>

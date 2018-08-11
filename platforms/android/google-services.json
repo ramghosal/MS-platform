@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "896950829266",
+    "firebase_url": "https://mobilestyler-prod.firebaseio.com",
+    "project_id": "mobilestyler-prod",
+    "storage_bucket": "mobilestyler-prod.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896950829266:android:ecafea79fb548182",
+        "android_client_info": {
+          "package_name": "com.mobilestylerllc.cosmetologist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896950829266-43l187en08nn6jhb0rsds0t6m3tpalqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UzJigQxnp0ISlyptRoJl69En0rva7BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896950829266:android:4ba3227a2c862f90",
+        "android_client_info": {
+          "package_name": "com.mobilestylerllc.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896950829266-43l187en08nn6jhb0rsds0t6m3tpalqu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8UzJigQxnp0ISlyptRoJl69En0rva7BY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

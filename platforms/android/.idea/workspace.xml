@@ -1,0 +1,345 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d2ae0a1-6dbc-48bd-9cd3-e873af1eb010" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../../README.md" afterPath="$PROJECT_DIR$/../../README.md" />
+      <change beforePath="$PROJECT_DIR$/../../config.xml" afterPath="$PROJECT_DIR$/../../config.xml" />
+      <change beforePath="$PROJECT_DIR$/../../ionic.config.json" afterPath="$PROJECT_DIR$/../../ionic.config.json" />
+      <change beforePath="$PROJECT_DIR$/../../package-lock.json" afterPath="$PROJECT_DIR$/../../package-lock.json" />
+      <change beforePath="$PROJECT_DIR$/../../package.json" afterPath="$PROJECT_DIR$/../../package.json" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/plugin.xml" afterPath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/plugin.xml" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoordinateBounds+Geometry.h" afterPath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoordinateBounds+Geometry.h" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoordinateBounds+Geometry.m" afterPath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/GMSCoordinateBounds+Geometry.m" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/LICENSE" afterPath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/README.md" afterPath="$PROJECT_DIR$/../../plugins/cordova-plugin-googlemaps/src/ios/GoogleMaps/MFGoogleMapAdditions/README.md" />
+      <change beforePath="$PROJECT_DIR$/../../plugins/fetch.json" afterPath="$PROJECT_DIR$/../../plugins/fetch.json" />
+      <change beforePath="$PROJECT_DIR$/../../resources/README.md" afterPath="$PROJECT_DIR$/../../resources/README.md" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/icon/drawable-hdpi-icon.png" afterPath="$PROJECT_DIR$/../../resources/android/icon/drawable-hdpi-icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/icon/drawable-ldpi-icon.png" afterPath="$PROJECT_DIR$/../../resources/android/icon/drawable-ldpi-icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/icon/drawable-mdpi-icon.png" afterPath="$PROJECT_DIR$/../../resources/android/icon/drawable-mdpi-icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/icon/drawable-xhdpi-icon.png" afterPath="$PROJECT_DIR$/../../resources/android/icon/drawable-xhdpi-icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/icon/drawable-xxhdpi-icon.png" afterPath="$PROJECT_DIR$/../../resources/android/icon/drawable-xxhdpi-icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/icon/drawable-xxxhdpi-icon.png" afterPath="$PROJECT_DIR$/../../resources/android/icon/drawable-xxxhdpi-icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-hdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-hdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-ldpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-ldpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-mdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-mdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-xhdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-xhdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-xxhdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-land-xxxhdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-hdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-hdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-ldpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-ldpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-mdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-mdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-xhdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-xhdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-xxhdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-xxhdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-xxxhdpi-screen.png" afterPath="$PROJECT_DIR$/../../resources/android/splash/drawable-port-xxxhdpi-screen.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/icon.png" afterPath="$PROJECT_DIR$/../../resources/icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/icon.png.md5" afterPath="$PROJECT_DIR$/../../resources/icon.png.md5" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-1024.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-1024.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-40.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-40.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-40@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-40@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-40@3x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-40@3x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-50.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-50.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-50@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-50@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-60.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-60.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-60@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-60@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-60@3x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-60@3x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-72.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-72.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-72@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-72@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-76.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-76.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-76@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-76@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-83.5@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-83.5@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-small.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-small.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-small@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-small@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon-small@3x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon-small@3x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/icon/icon@2x.png" afterPath="$PROJECT_DIR$/../../resources/ios/icon/icon@2x.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-568h@2x~iphone.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-568h@2x~iphone.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-667h.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-667h.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-736h.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-736h.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape-736h.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape-736h.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape@2x~ipad.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape@2x~ipad.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape@~ipadpro.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape@~ipadpro.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape~ipad.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Landscape~ipad.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Portrait@2x~ipad.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Portrait@2x~ipad.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Portrait@~ipadpro.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Portrait@~ipadpro.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default-Portrait~ipad.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default-Portrait~ipad.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default@2x~iphone.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default@2x~iphone.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default@2x~universal~anyany.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default@2x~universal~anyany.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/ios/splash/Default~iphone.png" afterPath="$PROJECT_DIR$/../../resources/ios/splash/Default~iphone.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/splash.png" afterPath="$PROJECT_DIR$/../../resources/splash.png" />
+      <change beforePath="$PROJECT_DIR$/../../resources/splash.png.md5" afterPath="$PROJECT_DIR$/../../resources/splash.png.md5" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/app.component.ts" afterPath="$PROJECT_DIR$/../../src/app/app.component.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/app.html" afterPath="$PROJECT_DIR$/../../src/app/app.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/app.module.ts" afterPath="$PROJECT_DIR$/../../src/app/app.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/app.scss" afterPath="$PROJECT_DIR$/../../src/app/app.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/app/main.ts" afterPath="$PROJECT_DIR$/../../src/app/main.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/2.jpg" afterPath="$PROJECT_DIR$/../../src/assets/2.jpg" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/3.jpg" afterPath="$PROJECT_DIR$/../../src/assets/3.jpg" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/4.jpg" afterPath="$PROJECT_DIR$/../../src/assets/4.jpg" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/icon/favicon.ico" afterPath="$PROJECT_DIR$/../../src/assets/icon/favicon.ico" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/imgs/logo.png" afterPath="$PROJECT_DIR$/../../src/assets/imgs/logo.png" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/ms-logo.png" afterPath="$PROJECT_DIR$/../../src/assets/ms-logo.png" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/profile_icon.png" afterPath="$PROJECT_DIR$/../../src/assets/profile_icon.png" />
+      <change beforePath="$PROJECT_DIR$/../../src/assets/video.mp4" afterPath="$PROJECT_DIR$/../../src/assets/video.mp4" />
+      <change beforePath="$PROJECT_DIR$/../../src/index.html" afterPath="$PROJECT_DIR$/../../src/index.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/manifest.json" afterPath="$PROJECT_DIR$/../../src/manifest.json" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/bookings/bookings.html" afterPath="$PROJECT_DIR$/../../src/pages/bookings/bookings.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/bookings/bookings.module.ts" afterPath="$PROJECT_DIR$/../../src/pages/bookings/bookings.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/bookings/bookings.scss" afterPath="$PROJECT_DIR$/../../src/pages/bookings/bookings.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/bookings/bookings.ts" afterPath="$PROJECT_DIR$/../../src/pages/bookings/bookings.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/home/home.html" afterPath="$PROJECT_DIR$/../../src/pages/home/home.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/home/home.scss" afterPath="$PROJECT_DIR$/../../src/pages/home/home.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/home/home.ts" afterPath="$PROJECT_DIR$/../../src/pages/home/home.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/login/login.html" afterPath="$PROJECT_DIR$/../../src/pages/login/login.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/login/login.module.ts" afterPath="$PROJECT_DIR$/../../src/pages/login/login.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/login/login.scss" afterPath="$PROJECT_DIR$/../../src/pages/login/login.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/login/login.ts" afterPath="$PROJECT_DIR$/../../src/pages/login/login.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/notifications/notifications.html" afterPath="$PROJECT_DIR$/../../src/pages/notifications/notifications.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/notifications/notifications.module.ts" afterPath="$PROJECT_DIR$/../../src/pages/notifications/notifications.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/notifications/notifications.scss" afterPath="$PROJECT_DIR$/../../src/pages/notifications/notifications.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/notifications/notifications.ts" afterPath="$PROJECT_DIR$/../../src/pages/notifications/notifications.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/profile/profile.html" afterPath="$PROJECT_DIR$/../../src/pages/profile/profile.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/profile/profile.module.ts" afterPath="$PROJECT_DIR$/../../src/pages/profile/profile.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/profile/profile.scss" afterPath="$PROJECT_DIR$/../../src/pages/profile/profile.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/profile/profile.ts" afterPath="$PROJECT_DIR$/../../src/pages/profile/profile.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/register/register.html" afterPath="$PROJECT_DIR$/../../src/pages/register/register.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/register/register.module.ts" afterPath="$PROJECT_DIR$/../../src/pages/register/register.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/register/register.scss" afterPath="$PROJECT_DIR$/../../src/pages/register/register.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/register/register.ts" afterPath="$PROJECT_DIR$/../../src/pages/register/register.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/start/start.html" afterPath="$PROJECT_DIR$/../../src/pages/start/start.html" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/start/start.module.ts" afterPath="$PROJECT_DIR$/../../src/pages/start/start.module.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/start/start.scss" afterPath="$PROJECT_DIR$/../../src/pages/start/start.scss" />
+      <change beforePath="$PROJECT_DIR$/../../src/pages/start/start.ts" afterPath="$PROJECT_DIR$/../../src/pages/start/start.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/auth/auth.ts" afterPath="$PROJECT_DIR$/../../src/providers/auth/auth.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/bookings/bookings.ts" afterPath="$PROJECT_DIR$/../../src/providers/bookings/bookings.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/geo/geo.ts" afterPath="$PROJECT_DIR$/../../src/providers/geo/geo.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/geocoder/geocoder.ts" afterPath="$PROJECT_DIR$/../../src/providers/geocoder/geocoder.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/notifications/notifications.ts" afterPath="$PROJECT_DIR$/../../src/providers/notifications/notifications.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/payments/payments.ts" afterPath="$PROJECT_DIR$/../../src/providers/payments/payments.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/profile/profile.ts" afterPath="$PROJECT_DIR$/../../src/providers/profile/profile.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/providers/service/service.ts" afterPath="$PROJECT_DIR$/../../src/providers/service/service.ts" />
+      <change beforePath="$PROJECT_DIR$/../../src/service-worker.js" afterPath="$PROJECT_DIR$/../../src/service-worker.js" />
+      <change beforePath="$PROJECT_DIR$/../../src/theme/variables.scss" afterPath="$PROJECT_DIR$/../../src/theme/variables.scss" />
+      <change beforePath="$PROJECT_DIR$/../../tsconfig.json" afterPath="$PROJECT_DIR$/../../tsconfig.json" />
+      <change beforePath="$PROJECT_DIR$/../../tslint.json" afterPath="$PROJECT_DIR$/../../tslint.json" />
+      <change beforePath="$PROJECT_DIR$/../../typings.json" afterPath="$PROJECT_DIR$/../../typings.json" />
+      <change beforePath="$PROJECT_DIR$/../../typings/cordova-typings.d.ts" afterPath="$PROJECT_DIR$/../../typings/cordova-typings.d.ts" />
+      <change beforePath="$PROJECT_DIR$/../../typings/globals/jquery/index.d.ts" afterPath="$PROJECT_DIR$/../../typings/globals/jquery/index.d.ts" />
+      <change beforePath="$PROJECT_DIR$/../../typings/globals/jquery/typings.json" afterPath="$PROJECT_DIR$/../../typings/globals/jquery/typings.json" />
+      <change beforePath="$PROJECT_DIR$/../../typings/index.d.ts" afterPath="$PROJECT_DIR$/../../typings/index.d.ts" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../../MobileStylerClient-ionic-30july/platforms/android" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$" value="RE_IMPORT" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="260" />
+    <option name="y" value="20" />
+    <option name="width" value="1493" />
+    <option name="height" value="990" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="AndroidView" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="AndroidJUnit" factoryName="Android JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="JUnit" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d2ae0a1-6dbc-48bd-9cd3-e873af1eb010" name="Default" comment="" />
+      <created>1533961335287</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1533961335287</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="260" y="20" width="1493" height="990" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24982357" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32969698" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
